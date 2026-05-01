@@ -1,4 +1,4 @@
-# Fake News Detection (or relevant title)
+# Fake News Detection
 
 This project uses Machine Learning to classify data based on a Linear Regression model. It includes a trained model and a vectorizer for processing input text.
 
